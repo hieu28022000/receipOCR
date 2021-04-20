@@ -1,0 +1,12 @@
+einops==0.3.0
+imageio==2.9.0
+matplotlib==3.3.3
+numpy==1.19.5
+opencv-python==4.5.1.48
+Pillow==8.1.0
+PyYAML==5.4.1
+requests==2.25.1
+scikit-image==0.18.1
+scipy==1.6.0
+torch==1.7.1
+torchvision==0.4.1

@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+*.pkl
+*.pth
+result*
+weights*
+env/
+models/
+__pycache__/
+.vscode/
+data/
